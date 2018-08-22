@@ -1,0 +1,22 @@
+body {
+    box-sizing: border-box;
+    
+}
+
+#topbar {
+    width: 100%;
+    background-color: orange;
+}
+
+h1 {
+    color: aqua;
+    font-size: 40px;
+}
+
+.wrapper {
+    width: 960px;
+}
+
+footer {
+    color: red;
+}
